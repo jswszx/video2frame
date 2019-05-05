@@ -23,4 +23,4 @@
 ```
 3. 実行  
 ` python video2frame.py <your fps> `  
-fps : frame per second (default:10)
+> fps : frame per second (default:10)
